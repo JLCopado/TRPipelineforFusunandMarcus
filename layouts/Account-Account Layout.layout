@@ -25,6 +25,10 @@
                 <behavior>Edit</behavior>
                 <field>SAP_Account__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Copado_Trained_2_25__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
